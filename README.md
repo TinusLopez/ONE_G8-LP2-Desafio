@@ -1,3 +1,3 @@
 <h1>Proyecto Final</h1>
 
-- Compartiendo el proyecto final del curso: Lógistica de Programación 2
+- Compartiendo el Proyecto Final del Curso: Lógica de programación: explorar funciones y listas.
