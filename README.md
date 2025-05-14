@@ -56,4 +56,4 @@ Este proyecto aún se encuentra en progreso. ¡Sigue atento a futuras actualizac
 Puedes clonar este repositorio con el siguiente comando:
 
 ```bash
-git clone https://github.com/tuusuario/proyecto-final-logica.git
+git clone https://github.com/TinusLopez/ONE_G8-LP2-Desafio.git
